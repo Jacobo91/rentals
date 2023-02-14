@@ -1,0 +1,104 @@
+{
+    "rentals":[
+        {
+            "id": 1,
+            "location": "La Calera, Colombia",
+            "img": "https://a0.muscache.com/im/pictures/miso/Hosting-46136014/original/90651914-eab8-4f54-85d2-d95e73f34dd2.jpeg?im_w=720",
+            "view": "Con vista a la montaña",
+            "availability": "21 - 26 de feb",
+            "price": "$576,439 COP",
+            "time": "noche",
+            "rating": "4.91"
+        },
+        {
+            "id": 2,
+            "location": "Machachi, Ecuador",
+            "img": "https://a0.muscache.com/im/pictures/miso/Hosting-33996825/original/d247d6a3-e3a6-4f5e-b687-18973f1d8905.jpeg?im_w=720",
+            "view": "Con vista a la montaña",
+            "availability": "12 - 18 mar",
+            "price": "$835,215 COP",
+            "time": "noche",
+            "rating": "4.91"
+        },
+        {
+            "id": 3,
+            "location": "Panamá Oeste, Panamá",
+            "img": "https://a0.muscache.com/im/pictures/a5f54fdc-2417-4694-ac20-75f3a9865c9d.jpg?im_w=720",
+            "view": "Vistas hacia: Playa y montaña",
+            "availability": "19 - 24 feb",
+            "price": "$833,562 COP",
+            "time": "noche",
+            "rating": "4.87"
+        },
+        {
+            "id": 4,
+            "location": "Uvita, Costa Rica",
+            "img": "https://a0.muscache.com/im/pictures/2fa184b5-dfa1-48b8-b3f2-5594bee53def.jpg?im_w=720",
+            "view": "Vistas hacia: Oceano y piscina",
+            "availability": "16 - 23 de abr",
+            "price": "$2,401,000",
+            "time": "noche",
+            "rating": "5.0"
+        },
+        {
+            "id": 5,
+            "location": "Savegre de Aguirre, Costa Rica",
+            "img": "https://a0.muscache.com/im/pictures/prohost-api/Hosting-48122928/original/9ffae518-1254-4ace-a1de-c643827754f8.jpeg?im_w=720",
+            "view": "Vistas hacia: Montaña y jardín",
+            "availability": "",
+            "price": "$4,050,000 COP",
+            "time": "noche",
+            "rating": "4.89"
+        },
+        {
+            "id": 6,
+            "location": "Lentag, Ecuador",
+            "img": "https://a0.muscache.com/im/pictures/miso/Hosting-654415979602074887/original/396b5327-482b-42f7-b2bf-e2983d98eaa5.jpeg?im_w=720",
+            "view": "Con vista a la montaña",
+            "availability": "26 de feb - 3 de mar",
+            "price": "$895,000 COP",
+            "time": "noche",
+            "rating": "4.0"
+        },
+        {
+            "id": 7,
+            "location": "Cantón Patate, Ecuador",
+            "img": "https://a0.muscache.com/im/pictures/8aeb036c-b654-460d-af29-edc2392e1cc0.jpg?im_w=720",
+            "view": "Vistas hacia: Montaña y valle",
+            "availability": "21 - 26 feb",
+            "price": "$862,000 COP",
+            "time": "noche",
+            "rating": "4.88"
+        },
+        {
+            "id": 8,
+            "location": "Salina Abou, Curazao",
+            "img": "https://a0.muscache.com/im/pictures/0fe81757-9d3a-4f9c-bb23-768e0c8b0451.jpg?im_w=720",
+            "view": "Vistas hacia: Playa y montaña",
+            "availability": "2 - 7 sep",
+            "price": "$2,900,000 COP",
+            "time": "noche",
+            "rating": "4.93"
+        },
+        {
+            "id": 9,
+            "location": "Barbosa, Colombia",
+            "img": "https://a0.muscache.com/im/pictures/miso/Hosting-53935496/original/492019a2-2028-4739-b95c-36209eae3608.jpeg?im_w=720",
+            "view": "Con vista a la piscina",
+            "availability": "20 - 25 feb",
+            "price": "$2,105,000 COP",
+            "time": "noche",
+            "rating": "5.0"
+        },
+        {
+            "id": 10,
+            "location": "Chocontá, Colombia",
+            "img": "https://a0.muscache.com/im/pictures/1088654b-7332-4dcb-bdec-945d0a01b885.jpg?im_w=720",
+            "view": "Vistas hacia: Montaña y lago",
+            "availability": "17 - 22 feb",
+            "price": "$1,700,000 COP",
+            "time": "noche",
+            "rating": "4.88"
+        }
+    ]
+}
